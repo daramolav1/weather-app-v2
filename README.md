@@ -4,7 +4,7 @@ Weather Application is a react app for searching current weather and the week's 
 
 ## Links
 
-- [Live Demo](https://weather-forecast-app-client.herokuapp.com/)
+- [Live Demo](https://weather-forecast-app-client.netlify.app/)
 
 ## Screenshots
 
